@@ -6,4 +6,4 @@
 
 ##Matrix Reducer
 - Python3 program that consumes a matrix and converts it to Row Reduced Echelon Form
-- To learn more about Matrices and RREF, read (https://en.wikipedia.org/wiki/Row_echelon_form "Wikipedia)
+- To learn more about Matrices and RREF, read https://en.wikipedia.org/wiki/Row_echelon_form
