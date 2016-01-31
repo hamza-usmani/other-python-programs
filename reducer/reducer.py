@@ -33,17 +33,9 @@ def main ():
     convert ()
     
 def convert ():
+  matrix2= matrix
   for i in range (len(matrix)):
-        matrix[i] = list (matrix[i])
-        
-        while True:
-              try:
-                matrix[i].remove(' ')
-              except ValueError:
-                break 
-            
-        for n in range (len(matrix[i])):
-            (matrix[i])[n] = float ((matrix[i])[n])
+      matrix[i]= [int(el) for el in matrix[i].split(' ')]
             
   reduce(matrix)
   print ("\nReduced Echelon Form:")
@@ -78,5 +70,3 @@ def reduce(M):
         count += 1
       
 main()
-  
-
