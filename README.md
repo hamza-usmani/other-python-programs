@@ -12,3 +12,4 @@
 - Small program with minimal functionality:
     - extract a specific zip from a dir
     - zip certain filename (extension) files from a dir
+    - test files: zip only the .doc or .txt files in testfiles dir
