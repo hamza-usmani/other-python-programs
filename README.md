@@ -1,6 +1,6 @@
 #Various Small Python Programs
 
-##Notepad Tester
+##Text Notepad
 - A small notepad test program made with Tkniter in Python2
 - Implements load and save features, basic note-taker
 
