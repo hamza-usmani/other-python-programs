@@ -1,5 +1,5 @@
 #Various Small Python Programs
-
+The following are all tiny python practice programs 
 ##Text Notepad
 - A small notepad test program made with Tkniter in Python2
 - Implements load and save features, basic note-taker
